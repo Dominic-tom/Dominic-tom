@@ -10,6 +10,17 @@
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+<details>
+  <summary>More about me</summary>
+
+- **Name**: Dominic Tom
+- **From**: India
+- **cybersecurity enthusiast** | **Security Researcher** | **Freelance Penetration Tester**
+- Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
+- I’m currently learning and exploring **advanced hacking techniques**, **networking**, and **cybersecurity certifications**.
+
+</details>
+
 
 
 <div>
