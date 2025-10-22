@@ -29,6 +29,16 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
+<h2 id="Certifications" align=''> Certifications </h2>
+
+<div>
+<img src="https://img.shields.io/badge/C|SA-Certified-red?style=for-the-badge&color=000000" alt="CompTIA Security+ Certification" />
+<img src="https://img.shields.io/badge/CICSA-CERTIFIED_IT_INFRASTRUCTURE_AND_CYBER_SOC_ANALYST-blue?style=for-the-badge&logo=ec-council&color=000000" alt="CEH Certification" />
+
+</div>
+
+
+
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <br>
